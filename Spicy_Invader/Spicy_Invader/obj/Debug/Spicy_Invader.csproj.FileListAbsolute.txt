@@ -1,0 +1,16 @@
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.exe.config
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.exe
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.pdb
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.AssemblyReference.cache
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.SuggestedBindingRedirects.cache
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.CoreCompileInputs.cache
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.exe
+C:\Users\pw17kto\Desktop\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.pdb
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.exe.config
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.exe
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\bin\Debug\Spicy_Invader.pdb
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.AssemblyReference.cache
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.SuggestedBindingRedirects.cache
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.csproj.CoreCompileInputs.cache
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.exe
+D:\Programmation\P_Dev\Spicy_Invader\Spicy_Invader\obj\Debug\Spicy_Invader.pdb
