@@ -11,7 +11,7 @@ namespace Spicy_Invader
 
 
         static void Main(string[] args)
-        {     
+        {
             // variable pour stocker le choix de l'utilisateur
             string _playerChoice = " ";
 
@@ -23,8 +23,9 @@ namespace Spicy_Invader
             Console.WriteLine("Menu : \n");
             Console.WriteLine("1.- Jouer\n");
             Console.WriteLine("2.- Options\n");
-            Console.WriteLine("3.- A propos\n");
-            Console.WriteLine("4.- Quitter\n");
+            Console.WriteLine("3.- Highscore\n");
+            Console.WriteLine("4.- A propos\n");
+            Console.WriteLine("5.- Quitter\n");
 
             // Choix de l'utilisateur
             Console.Write("Votre choix : ");
@@ -43,10 +44,14 @@ namespace Spicy_Invader
                     break;
 
                 case "3":
-                    About();
+                    Highscore();
                     break;
 
                 case "4":
+                    About();
+                    break;
+
+                case "5":
                     Exit();
                     break;
 
@@ -57,6 +62,9 @@ namespace Spicy_Invader
             }
             void Play()
             {
+                Game spicyInvader = new Game();
+                spicyInvader.StartGame();
+
 
             }
 
@@ -76,6 +84,11 @@ namespace Spicy_Invader
                 }
             }
 
+            void Highscore()
+            {
+
+            }
+
             void About()
             {
                 Console.Clear();
@@ -93,6 +106,8 @@ namespace Spicy_Invader
 
             }
 
+
+            
 
             // pas fermer la console
             Console.ReadLine();
